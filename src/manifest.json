@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Commandp F2E Asana Copy Script",
+  "description": "Copy select asana ticket with Markdown type link",
+  "version": "0.3",
+
+  "content_scripts": [{
+    "matches": ["*://app.asana.com/*"],
+    "js": ["content.js"]
+  }],
+  "permissions": [
+    "tabs"
+  ]
+}
