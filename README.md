@@ -3,7 +3,7 @@
 a stupid boring chrome extension replace your clipboard data when you copying a asana task(s).
 
 ## Feature
-- `[task name]` :point_right: `- [[task name]](task url)`
+- `task_name` :point_right: `- [task_name](task_url)`
 
 ## Download
 - [build/CopyAsanaTicket.crx](https://github.com/commandp/CopyAsanaTicketMarkdownLink/raw/master/build/CopyAsanaTicket.crx)
