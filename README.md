@@ -10,10 +10,10 @@ a stupid boring chrome extension replace your clipboard data when you copying a 
 - [build/CopyAsanaTicket.crx](https://github.com/e39a562r/CopyAsanaTicketMarkdownLink/raw/master/build/CopyAsanaTicket.crx)
 
 ## Install
-1. open [chrome's setting page](chrome://settings/)
-2. go to extension tab
+1. open chrome's setting page.  :point_right: [chrome://extensions/](chrome://extensions/)
+2. go to extensions tab
 3. check the `development` box at top right.
-4. drag the .crx file into extension tab
+4. drag the .crx file into extensions tab
 
 ## Usage
 1. select target asana task(s).
