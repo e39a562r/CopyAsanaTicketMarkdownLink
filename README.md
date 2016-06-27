@@ -18,5 +18,5 @@ a stupid boring chrome extension replace your clipboard data when you copying a 
 3. and paste.  Done.
 
 ## After All
-- There is a stupid .pem in the build folder cuz @e39a56r is idiot. 
+- There is a stupid .pem in the build folder cuz @e39a56r is `a` idiot. 
 - Don't do weird things with it, please.
