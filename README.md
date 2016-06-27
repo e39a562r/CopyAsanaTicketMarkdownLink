@@ -7,7 +7,7 @@ a stupid boring chrome extension replace your clipboard data when you copying a 
 - support multiple lines copy.
 
 ## Download
-- [build/CopyAsanaTicket.crx](https://github.com/commandp/CopyAsanaTicketMarkdownLink/raw/master/build/CopyAsanaTicket.crx)
+- [build/CopyAsanaTicket.crx](https://github.com/e39a562r/CopyAsanaTicketMarkdownLink/raw/master/build/CopyAsanaTicket.crx)
 
 ## Install
 - Drop the .crx file at chrome
