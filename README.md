@@ -1,4 +1,4 @@
-# Copy Asana Ticket Markdown Link
+# Copy Asana Task with Markdown Link
 
 a stupid boring chrome extension replace your clipboard data when you copying a asana task(s).
 
